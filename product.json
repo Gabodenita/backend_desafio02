@@ -1,0 +1,47 @@
+[
+  {
+    "title": "aaaaaa",
+    "description": "cuatro puertas",
+    "price": "100",
+    "thumbnail": "dasfasdadsa",
+    "code": "ABC1",
+    "stock": 20,
+    "id": 1
+  },
+  {
+    "title": "5555aa",
+    "description": "cuatro puertas",
+    "price": "100",
+    "thumbnail": "dasfasdadsa",
+    "code": "ABC3",
+    "stock": 20,
+    "id": 3
+  },
+  {
+    "title": "5555aa",
+    "description": "cuatro puertas",
+    "price": "100",
+    "thumbnail": "dasfasdadsa",
+    "code": "ABC5",
+    "stock": 20,
+    "id": 4
+  },
+  {
+    "title": "5555aa",
+    "description": "cuatro puertas",
+    "price": "100",
+    "thumbnail": "dasfasdadsa",
+    "code": "ABC4",
+    "stock": 20,
+    "id": 5
+  },
+  {
+    "title": "aaaaaa",
+    "description": "cuatro puertas",
+    "price": "100",
+    "thumbnail": "dasfasdadsa",
+    "code": "ABC7",
+    "stock": 20,
+    "id": 6
+  }
+]
